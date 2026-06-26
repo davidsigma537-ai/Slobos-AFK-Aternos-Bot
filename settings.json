@@ -1,16 +1,16 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Slobot00121",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "1234-cvHT.aternos.me",
+    "ip": "1234sloba.aternos.me",
 
     "port": 25565
 ,
-    "version": 1.20.11
+    "version": 1.20.1"
     "try-creative": false
   },
   "position": {
@@ -22,7 +22,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chalol78121"
     },
     "anti-afk": {
       "enabled": true,
