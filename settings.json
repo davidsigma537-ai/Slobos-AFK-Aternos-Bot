@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "1234sloba.aternos.me",
+    "ip": "1234-cvHT.aternos.me",
 
-    "port": 48994
+    "port": 25565
 ,
     "version": "",
     "try-creative": false
