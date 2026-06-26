@@ -31,7 +31,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 0,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
