@@ -24,7 +24,7 @@
       "enabled": true,
       "password": "chalol78121"
     },
-    "anti-afk": {
+    "anti-afk": {true
       "enabled": true,
       "sneak": true
     },
@@ -40,8 +40,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 0,
+    "max-reconnect-delay": 0
   },
   "movement": {
     "enabled": true,
@@ -54,7 +54,7 @@
       "enabled": true,
       "interval": 5000
     },
-    "random-jump": {
+    "random-jump": {true
       "enabled": true,
       "interval": 10000
     }
